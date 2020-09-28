@@ -1,0 +1,13 @@
+C:\Users\Lemuel Acosta\source\repos\Empleados\bin\Debug\netcoreapp3.1\Empleados.exe
+C:\Users\Lemuel Acosta\source\repos\Empleados\bin\Debug\netcoreapp3.1\Empleados.deps.json
+C:\Users\Lemuel Acosta\source\repos\Empleados\bin\Debug\netcoreapp3.1\Empleados.runtimeconfig.json
+C:\Users\Lemuel Acosta\source\repos\Empleados\bin\Debug\netcoreapp3.1\Empleados.runtimeconfig.dev.json
+C:\Users\Lemuel Acosta\source\repos\Empleados\bin\Debug\netcoreapp3.1\Empleados.dll
+C:\Users\Lemuel Acosta\source\repos\Empleados\bin\Debug\netcoreapp3.1\Empleados.pdb
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.csprojAssemblyReference.cache
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.AssemblyInfoInputs.cache
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.AssemblyInfo.cs
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.dll
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.pdb
+C:\Users\Lemuel Acosta\source\repos\Empleados\obj\Debug\netcoreapp3.1\Empleados.genruntimeconfig.cache
